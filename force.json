@@ -11,8 +11,8 @@
         "verbose": false,
         "ignoreWarnings": true
     },
-    "username": "jdority@developer.org",
-    "password": "Salesforce1PEZmNx4AzKlQAgF3Z5Amf142p",
+    "username": "",
+    "password": "",
     "url": "https://login.salesforce.com",
     "autoCompile": true,
     "src": "src"
