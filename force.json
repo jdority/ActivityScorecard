@@ -1,0 +1,19 @@
+{
+    "autoRefresh": false,
+    "browser": "Google Chrome Canary",
+    "pollTimeout": 1200,
+    "debugOnly": true,
+    "debugFilter": "USER_DEBUG|FATAL_ERROR",
+    "apiVersion": "38.0",
+    "deployOptions": {
+        "checkOnly": false,
+        "testLevel": "runLocalTests",
+        "verbose": false,
+        "ignoreWarnings": true
+    },
+    "username": "jdority@developer.org",
+    "password": "Salesforce1PEZmNx4AzKlQAgF3Z5Amf142p",
+    "url": "https://login.salesforce.com",
+    "autoCompile": true,
+    "src": "src"
+}
